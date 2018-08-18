@@ -15,4 +15,6 @@ pip install bs4
 
 #### 素材火签到
 * 网址：http://www.sucaihuo.com/
-* 文件：sucaihuo.py
+* 文件：sucaihuo.py、sucaihuo2.py
+* sucaihuo.py是用request与bs4写的直接登录签到
+* sucaihuo2.py是用到cookie登录的签到，会自动生成一个sucaihuo_cookie.txt的文件
