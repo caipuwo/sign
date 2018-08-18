@@ -11,7 +11,7 @@ pip install bs4
 ```
 
 ### 文件说明
-* user.py声明用户密码变量，此文件不上传到项目，请自行新建
+* user.py声明用户密码变量，请自行修改成自己的账号密码
 
 #### 素材火签到
 * 网址：http://www.sucaihuo.com/
